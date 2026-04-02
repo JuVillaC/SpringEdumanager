@@ -9,8 +9,15 @@ import org.springframework.web.bind.annotation.*;
 
 @Controller
 public class EduController {
+    
     @Autowired
     private EduService service;
+
+    // NUEVO: Si alguien entra a "localhost:8081", lo enviamos a "/estudiantes"
+    @GetMapping("/")
+    public String inicio() {
+        return "redirect:/estudiantes";
+    }
 
     @GetMapping("/estudiantes")
     public String verEstudiantes(Model model) {
