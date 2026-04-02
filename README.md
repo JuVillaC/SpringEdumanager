@@ -1,7 +1,7 @@
 # 🎓 SpringEdu Manager - Sistema de Ingreso de Estudiantes
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.4-brightgreen?style=for-the-badge&logo=springboot)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.13-brightgreen?style=for-the-badge&logo=springboot)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
